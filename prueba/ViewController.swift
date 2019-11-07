@@ -16,5 +16,8 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func boton(_ sender: Any) {
+    print("Funciona")
+    }
 }
 
